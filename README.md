@@ -6,6 +6,7 @@
 ### 重要更新：添加右键解压.car文件的功能
 
 ![2](Assets/2.gif)
+
 ![1](Assets/1.gif)
 
 Mac上解压Assets.car文件的小工具
